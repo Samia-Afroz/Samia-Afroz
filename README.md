@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Samia Afroz Risha👋
 
-<!--
-**Samia-Afroz/Samia-Afroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer | AI & Blockchain Enthusiast | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering graduate from BRAC University, passionate about building practical software solutions and exploring emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the full stack, developing web applications, and exploring how Artificial Intelligence, Natural Language Processing, and Blockchain can solve real-world problems.
+
+## 🔭 Areas of Interest
+
+Artificial Intelligence & Machine Learning
+
+Natural Language Processing (NLP)
+
+Blockchain Technology & Smart Contracts
+
+Full Stack Web Development
+
+Research & Software Engineering
+
+## 💻 Technical Skills
+
+Languages: C, C++, Python, Java, JavaScript, PHP
+
+Frontend: HTML, CSS, React.js
+
+Backend: Node.js, Express.js, Laravel, PHP
+
+Database: MySQL
+
+Tools: Git, GitHub, VS Code
+
+Other: REST APIs, WordPress, Blockchain Fundamentals
+
+## 🤝 Let's Connect
+LinkedIn: https://www.linkedin.com/in/samia-afroz-risha-570b9b226/
