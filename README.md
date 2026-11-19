@@ -6,7 +6,7 @@ I'm a Computer Science and Engineering graduate from BRAC University, passionate
 
 I enjoy working across the full stack, developing web applications, and exploring how Artificial Intelligence, Natural Language Processing, and Blockchain can solve real-world problems.
 
-## 🔭 Areas of Interest
+## Areas of Interest
 
 Artificial Intelligence & Machine Learning
 
@@ -18,7 +18,7 @@ Full Stack Web Development
 
 Research & Software Engineering
 
-## 💻 Technical Skills
+## Technical Skills
 
 Languages: C, C++, Python, Java, JavaScript, PHP
 
@@ -32,5 +32,5 @@ Tools: Git, GitHub, VS Code
 
 Other: REST APIs, WordPress, Blockchain Fundamentals
 
-## 🤝 Let's Connect
+## Let's Connect
 LinkedIn: https://www.linkedin.com/in/samia-afroz-risha-570b9b226/
